@@ -1,9 +1,8 @@
-# Upload-Rules
-## 电影
-### 前言
+# 电影
+## 前言
 请遵守规则。如果你对规则有任何不清楚或不理解的地方，`或是不确定某个资源或文件是否可以上传，`请[咨询管理组](http://www.nexushd.org/contactstaff.php)。
 
-### 允许的资源和文件
+## 允许的资源和文件
 
 - 高清（HD）视频，包括
     
@@ -18,18 +17,15 @@
     - DVDR/DVDISO
     - DVDRip、CNDVDRip
 
-### 不允许的资源和文件
+## 不允许的资源和文件
 - mUHD (mini UHD)资源
 - 标清视频upscale或部分upscale而成的视频文件
 - 属于标清级别但质量较差的视频文件，包括CAM、TC、TS(TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD等
 - RealVideo编码的视频（通常封装于RMVB或RM）、flv文件
 - 单独的样片（样片请和正片一起上传）
 - 重复（dupe）的资源（判定规则见下文）
-- 涉及禁忌或敏感内容（如色情、敏感政治话题等）的资源
-- 损坏的文件，指在读取或回放过程中出现错误的文件
-- 垃圾文件，如病毒、木马、网站链接、广告文档、种子中包含的种子文件等，或无关文件
     
-### HEVC编码资源的规则增补
+## HEVC编码资源的规则增补
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为raw），允许发布使用HEVC编码的资源
 - 对于重编码资源（即处理为encode）
@@ -38,9 +34,9 @@
     - 若重编码来源为 UHD(2160p) SDR资源， x264和x265编码器均允许使用
     - 对于动画类资源，重编码来源为HD SDR资源时，允许使用x265进行重编码
 
-### 种子信息
+## 种子信息
 
-### 重复（dupe）判定规则：质量重于数量
+## 重复（dupe）判定规则：质量重于数量
 > [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971)
 - 共存
     - 对于标清重编码，只保留一个版本的DVDRip。影片只有比DVD更差的来源时，需向管理组申请特例发布
@@ -67,6 +63,6 @@
     - 其他情况
         - Proper版本发布时，原来的版本视为nuked，新版本将free24小时
 
-### 
+## 
 
-### 
+## 
