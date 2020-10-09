@@ -24,6 +24,11 @@
 - RealVideo编码的视频（通常封装于RMVB或RM）、flv文件
 - 单独的样片（样片请和正片一起上传）
 - 重复（dupe）的资源（判定规则见下文）
+- `NowYS、CMCT和CkreleaSe出的新片“DVDRip”`
+- `未经过候选发布的电影合集（？ 存在未被删除的该类种子）`
+- `YYeTs制作的HR-HDTV资源`
+- `韩国TC`
+- `劣质WEB-DL压制小组（SmY / SeeHD / Mp4Ba / KORSUB）的作品`
     
 ## HEVC编码资源的规则增补
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
