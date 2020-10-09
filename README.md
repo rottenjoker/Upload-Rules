@@ -31,7 +31,7 @@
 - `劣质WEB-DL压制小组（SmY / SeeHD / Mp4Ba / KORSUB）的作品`
     
 ## HEVC编码资源的规则增补
-> [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
+> [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557) [上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
 - 对于未经重编码资源（即处理为raw），允许发布使用HEVC编码的资源
 - 对于重编码资源（即处理为encode）
     - 若重编码来源为UHD(2160p) HDR资源，仅允许使用x265编码器（或其他可靠的HEVC编码器）重编码
