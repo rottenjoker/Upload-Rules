@@ -1,9 +1,14 @@
 # 电影
-## Index
-- 
+## 索引
+- 前言
+- 允许的资源和文件
+- 不允许的资源和文件
+- HEVC编码资源的规则增补
+- 种子信息填写
+- 重复（dupe）判定规则
 
 ## 前言
-- 请遵守规则。如果你对规则有任何不清楚或不理解的地方，请[咨询管理组](http://www.nexushd.org/contactstaff.php)
+- 请遵守规则。如果你对规则有任何不清楚或不理解的地方，`或是不确定某个资源是否允许发布`，请[咨询管理组](http://www.nexushd.org/contactstaff.php)
 - ...
 - ...
 
@@ -45,12 +50,12 @@
     - 若重编码来源为 UHD(2160p) SDR资源， x264和x265编码器均允许使用
     - 对于动画类资源，重编码来源为HD SDR资源时，允许使用x265进行重编码
 
-## 种子信息
+## 种子信息填写
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711)，[NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952)，[发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)等
 - ...
 - ...
 
-## 重复（dupe）判定规则：质量重于数量
+## 重复（dupe）判定规则
 > [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971)，[上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
 - 共存
     - 对于标清重编码，只保留一个版本的DVDRip。影片只有比DVD更差的来源时，需向管理组申请特例发布
@@ -81,7 +86,7 @@
 
 ---
 ## Notes
-- 细则需要整理相关帖内部的讨论，额外部分须参考PTP（很详细）、AHD（很详细）、北洋、南洋、北邮人（大量常见问题和附加信息）、蒲公英、葡萄（有部分详细解释）、猫站（前段时间增加了wiki板块，规则较新），感觉TTG和MT的规则挺乱的……
+- 细则需要整理相关帖内部的讨论，额外部分须参考PTP（很详细）、AHD（很详细）、北洋、南洋、北邮人（大量常见问题和附加信息）、蒲公英（有部分详细解释）、葡萄（有部分详细解释）、猫站（前段时间增加了wiki板块，规则较新），感觉TTG和MT的规则挺乱的……
 - 大部分规则只是暂时把旧的贴过来了，后续讨论若有之前未落实的计划可以一并增添 / 修改
 - 规则在简略（说了白说）与详细（太长劝退）之间的平衡
 
