@@ -65,12 +65,12 @@
 - 淘汰（Trump）
     - 对于高清重编码（HD）
         - 对于站内尚未发布的影片
-            - 在 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除，评判依据始终为影片的实际质量和观看体验，而非来源，例如，
-            - 在站内出现首个 BDRip 之后的一段时间内，允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时 free （72 h 置顶？）和[推荐]标签
+            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差
+            - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时 free （72 h 置顶？）和[推荐]标签
         - 对于站内已发布的影片，新版本必须比已发布的版本拥有更好的视频质量，否则会被立刻删除，判断依据包括但不限于
             - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等
             - 是否对画面进行了必要且合理的修复，例如 Dirty lines、Deband/Deblock 等
-            - 同一场景/帧（P/B frames from Source & B frames from Encode）的无损截图（PNG）对比
+            - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比
         - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
         - PROPER 版本发布时，原先的版本视为 nuked（劣质），REPACK/RERIP 版本发布时，同一小组或个人发布的原先版本视为 nuked（劣质），新版本一律获得 24 小时 free
         - 原始宽高比的版本发布后，不符合原始宽高比的版本都会被立刻删除
