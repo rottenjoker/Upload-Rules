@@ -3,10 +3,10 @@
 - ...
 
 ## 前言
-- 请遵守规则
-- 如果你对规则有任何不清楚或不理解的地方，或是不确定某个资源是否可以发布，随时欢迎你[咨询我们](http://www.nexushd.org/contactstaff.php)
-- ...
-- ...
+- 请遵守规则，虽说有“违规的种子将不经提醒而直接删除”一言在先，管理员们在精力许可的情况下还是会尽量耐心地说明和指导，因为我们尊重每一份乐于分享的热忱
+- 如果这是你初次尝试发布，可以选择继续阅读和理解规则，也可以模仿较新的范例（当然更推荐结合二者），站内一些较久远的资源与现行规则相悖，请遵照现行规则，不要模仿它们
+- 关于对于资源标准较为严格的要求，还望理解，我们的目的并非临时交流和传输资源的，而是希望每一个资源发布后能永远存在，为后来的用户持续提供价值和方便，而非造成迷惑、混乱和不便，所以我们希望每一个资源都能经得起规则和用户的检验
+- 如果你对规则有任何不理解之处和个人建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
 
 ## 允许的资源和文件
 - 高清（HD）视频，包括
@@ -14,7 +14,7 @@
     - HDTV流媒体
     - 来源于上述媒介的高清重编码（至少为720p标准）
     - 其他高清视频，如高清DV
-    - `WEB-DL / WEBRip Content`
+    - WEB-DL / WEBRip Content
 - 标清（SD）视频，只能是    
     - 来源于高清媒介的标清重编码（至少为480p标准）
     - DVDR/DVDISO
@@ -26,12 +26,12 @@
 - 属于标清级别但质量较差的视频文件，包括CAM、TC、TS(TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD等
 - RealVideo编码的视频（通常封装于RMVB或RM）、flv文件
 - 单独的样片（样片请和正片一起上传）
-- 重复（dupe）的资源（判定规则见下文）
-- `NowYS、CMCT和CkreleaSe出的新片“DVDRip”`
+- 重复（Dupe）的资源（判定规则见下文）
+- NowYS、CMCT和CkreleaSe出的新片“DVDRip”
 - 未经过候选发布的电影合集（存疑 有未被删除的先例）
-- `YYeTs制作的HR-HDTV资源`
-- `韩国TC （747前辈发帖指出，但是与上文重复）`
-- `劣质WEB-DL压制小组（SmY / SeeHD / Mp4Ba / KORSUB）的作品`
+- YYeTs制作的HR-HDTV资源`
+- 韩国TC
+- 劣质WEB-DL压制小组（SmY / SeeHD / Mp4Ba / KORSUB）的作品
     
 ## HEVC编码资源的规则增补
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
@@ -44,18 +44,21 @@
 
 ## 种子信息填写
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711)，[NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952)，[发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)等
-- 填写简介时请务必贴出影片的 MediaInfo（获取方法详见此处），这能帮助其他用户非常直观地了解影片的视频、音频、字幕等轨道的信息
+- 发布资源时的标题、简介、质量选项等请尽量正确完善，退一步讲以上这些东西还可以等mod帮忙修正，但是资源的甄别和选取、torrent文件制作时包含的内容等方面在资源发布后除非删种重发再无办法改变。
+所以希望发布资源时能尽最大努力去遵循规则或模仿范例，避免出现种子被删除的劳动浪费，节省管理员和发布者自己的时间。
+- 请务必填上正确的 IMDb 链接，这不仅能让其他用户更精确地搜索到某部影片和查询该影片的其他版本，还有助于我们对资源的管理
+- 请务必在简介中附上影片的 MediaInfo（获取方法详见此处），这能让其他用户非常直观地了解影片的视频、音频、字幕等轨道的信息
 - ...
 
 ## 重复（Dupe）和淘汰（Trump）判定规则
 > [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971)，[上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
-- 共存
+- 重复（Dupe）
     - 对于标清重编码（SD）
         - 原则上只保留一个版本的 DVDRip，影片只有比 DVD 更差的来源时，需向管理组申请特例发布
     - 对于高清重编码（HD）
         - 1080p Rip 和 720p Rip 原则上各保留一个版本，最多不超过两个
     - 对于超高清重编码（UHD）
-        - 原则上仅保留一个版本的 2160p Rip
+        - 原则上只保留一个版本的 2160p Rip
     - 对于视频媒介，蓝光原盘、HD DVD 原盘、Remux、DVD 原盘各保留一个版本；影片不发售碟片时，保留一个版本的 HDTV 流媒体或 WEB-DL 流媒体
     - 在没有正常渠道取得电影片源时（正常渠道包括电影碟片发售、网络放送等），只保留一个版本的高清压制作品
     - 视频内容或形式有区别时，视为不同的影片进行保存（比如 Director’s Cut、3D 版本等）
@@ -63,6 +66,8 @@
     - 对于 iTunes WEB-DL 电影，只保留一个 720p 或 1080p 版本。如果 1080p 版本质量明显优于 720p 版本，可向管理组申请特例发布
 
 - 淘汰（Trump）
+    - 对于标清重编码（SD）
+    
     - 对于高清重编码（HD）
         - 对于站内尚未发布的影片
             - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差
@@ -71,10 +76,11 @@
             - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等
             - 是否对画面进行了必要且合理的修复，例如 Dirty lines、Deband/Deblock 等
             - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比
-        - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
         - PROPER 版本发布时，原先的版本视为 nuked（劣质），REPACK/RERIP 版本发布时，同一小组或个人发布的原先版本视为 nuked（劣质），新版本一律获得 24 小时 free
+        - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
         - 原始宽高比的版本发布后，不符合原始宽高比的版本都会被立刻删除
-        
+    - 对于超高清重编码（UHD）
+    
 - 附加信息
     - 某部影片的最优版本在最近三个月没有完成者动向（详见“种子完成详情”页面的“最近动向”一列）、并且没有可靠的续种渠道时，用户可以向管理组申请发布新的版本，并且删除原来断种的版本    
         - 在可以续种的情况下，不允许进行同一版本的二次发布（管理组计划对影片的最优版本进行官方保种，在新dupe规则正式实行时会开始相关工作）
