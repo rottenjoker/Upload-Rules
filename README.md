@@ -41,7 +41,7 @@
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为 raw），允许发布使用 HEVC 编码的资源
 - 对于重编码资源（即处理为 encode）
-    - 若重编码来源为 UHD（2160p）HDR 资源，仅允许使用 x265 或其他可靠的 HEVC 编码器重编码
+    - 若重编码来源为 UHD（2160p）HDR 资源，允许使用 x265 或其他可靠的 HEVC 编码器重编码
     - 若重编码来源为 HD SDR 资源，仅允许使用 x264 编码器重编码
     - 若重编码来源为 UHD（2160p）SDR 资源，x264 和 x265 编码器均允许使用
     - 对于动画类资源，重编码来源为 HD SDR 资源时，允许使用 x265 进行重编码
