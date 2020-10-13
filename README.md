@@ -66,33 +66,34 @@
     - 在没有正常渠道取得电影片源时（正常渠道包括电影碟片发售、网络放送等），只保留一个版本的高清压制作品
     - 视频内容或形式有区别时，视为不同的影片进行保存（比如 Director’s Cut、3D 版本等）
     - 音轨原则上只允许原音，如果封装了其他的音轨如国配、粤语音轨等，在已经有同分辨率同介质的小组作品发布的情况下，需向管理组申请特例发布
-    - 对于 iTunes WEB-DL 电影，只保留一个 720p 或 1080p 版本。如果 1080p 版本质量明显优于 720p 版本，可向管理组申请特例发布
+    - 对于仅存在 iTunes WEB-DL 电影，只保留一个 720p 或 1080p 版本。如果 1080p 版本质量明显优于 720p 版本，可向管理组申请特例发布
 - 淘汰（Trump）
     - 对于标清重编码（SD）
     
     - 对于高清重编码（HD）
         - 对于站内尚未发布 BDRip 的影片
-            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差
+            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差，则来自 WEB Source 的优质重编码将被优先保留）
             - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时“免费”（72 h 置顶？）和[推荐]标签
         - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的视频质量，否则会被立刻删除，判断依据主要为
             - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等版本的来源通常情况下会有更好的视频质量
             - 是否对画面进行了必要且合理的修复，例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
             - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比
-            - 发布组，即 Scene or P2P Release Groups（详见此处）
+            - 发布组，即 Scene or P2P Groups（详见此处），Quality P2P Groups 拥有更好的视频质量
+                - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
+                - 国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi等）因重编码质量参差不齐/频繁封装无损音轨，大体上视为与 Scene 同级
+        - Trump 达成后，旧版本将被删除，新版本将获得 24 小时“免费”
         - PROPER 版本发布时，原先的版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本一律获得 24 小时“免费”
-        - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
         - 原始宽高比的版本发布后，不符合原始宽高比的版本都会被立刻删除
     - 对于超高清重编码（UHD）
     
 - 附加信息
     - 某部影片的最优版本在最近三个月没有完成者动向（详见“种子完成详情”页面的“最近动向”一列）、并且没有可靠的续种渠道时，用户可以向管理组申请发布新的版本，并且删除原来断种的版本    
         - 在可以续种的情况下，不允许进行同一版本的二次发布
-        - 我们正在逐步推行对一些影片的最优版本进行官方保种（帐号名：SceneWhore），避免优质资源断种，同时随时欢迎你帮助我们救活断种（[详见此处](http://www.nexushd.org/forums.php?action=viewtopic&forumid=32&topicid=26423)）
-    - 并非所有用户在转发资源时都会保留初始发布者的发布信息，或是有意愿和能力根据其判断视频质量，因此虽然我们已不再严格遵照[原先的发布组画质分级](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=1520)，依旧有必要通过发布组来初步判断视频质量的优劣，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索
-        - Scene Release Groups
-        - P2P Release Groups
-            - High Quality Groups
-            - Lower Quality Groups
+        - 我们正在逐步推行对一些影片的最优版本进行官方保种，避免优质资源断种，同时随时欢迎你帮助我们救活断种（[详见此处](http://www.nexushd.org/forums.php?action=viewtopic&forumid=32&topicid=26423)）
+    - 并非所有用户在转发资源时都会保留初始发布者的发布信息，或是有意愿和能力根据其判断视频质量，因此虽然我们已不再严格遵照[原先的发布组画质分级](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=1520)，依旧有必要通过发布组来初步判断视频质量的优劣，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
+        - Scene Groups（在 [PreDB.me](https://predb.me/)、[pre.corrupt-net](https://pre.corrupt-net.org/) 和 [srrDB](https://www.srrdb.com/) 搜索更多 Scene 组）
+        - Quality P2P Groups
+
 ---
 ## Notes
 - 规则在简略（说了白说）与详细（太长劝退）之间的平衡
