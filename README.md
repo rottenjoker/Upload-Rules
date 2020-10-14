@@ -51,7 +51,7 @@
     - 对于动画类资源，重编码来源为 HD SDR 资源时，允许使用 x265 进行重编码
 
 ## 种子信息填写
-> [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711)，[NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952)，[发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)等
+> [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711)，[NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952)，[发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
 - 种子文件
 - 标题
 - 外部链接
