@@ -4,9 +4,10 @@
 
 ## 前言
 - 请遵守规则，虽说有“违规的种子将不经提醒而直接删除”一言在先，管理员们在精力允许的情况下还是会尽量耐心地说明和指导，因而你不必过于担心，我们尊重每一份乐于分享的热忱
-- 如果你才刚开始尝试发布，可以选择继续阅读和理解规则，也可以模仿较新的范例（当然更推荐结合二者），站内一些较久远的资源与现行规则相悖，请遵照现行规则，不要模仿它们
-- 关于规则对于资源较为严格的要求，还望理解，网站建立的目的并非临时交流和传输资源，而是希望每一个合规的资源在发布后能永远存在并可供下载，为将来的用户持续提供价值和方便，而非造成迷惑、混乱和不便
+- 如果你刚开始尝试发布，可以选择继续阅读和理解规则，也可以模仿较新的范例（当然更推荐结合二者），站内一些较久远的资源与现行规则相悖，请遵照现行规则，不要模仿它们
 - 自购、自抓、自压类资源可以获得 72 小时“免费 & 2X 下载”，我们非常欢迎用户发布原创资源，前提是符合规则
+- 关于规则对于资源较为严格的要求，还望理解，网站建立的目的并非临时交流和传输资源，而是希望每一个合规的资源在发布后能永远存在并可供下载，为将来的用户持续提供价值和方便，而非造成迷惑、混乱和不便
+- 受限于日益变化的标准和管理组的能力，要在下文囊括所有的相关条目既不科学也不现实，因此对于规则在将来可能出现的疏漏和描述模糊的部分，管理组保留最终的决定权，同时也会不断更新现行规则
 - 如果你对规则有任何不理解之处和个人建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
 
 ## 允许的资源和文件
@@ -26,8 +27,7 @@
     - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 9000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
     - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
-- 属于标清级别但质量较差的视频文件，包括 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD 等
-- Pre-Retail 资源，包括但不限于上述 CAM、TC、TS (TELESYNC)、SCR、DVDSCR
+- Pre-Retail 资源，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR 等，以及属于标清级别但质量较差的视频文件，包括 R5、R5.Line、HalfCD 等
 - RealVideo 编码的视频（通常封装于 RMVB 或 RM）、flv 文件
 - 单独的样片（样片请和正片一起上传）
 - RAR 等压缩文件
@@ -85,11 +85,11 @@
         - 对于站内尚未发布 BDRip 的影片
             - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差，则来自 WEB Source 的优质重编码将被优先保留）
             - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时“免费”（72 h 置顶？）和[推荐]标签
-        - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的视频质量，否则会被立刻删除，判断依据主要为
+        - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的质量，否则会被立刻删除，判断依据主要为
             - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等版本的来源通常情况下会有更好的视频质量
             - 是否对画面进行了必要且合理的修复，例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
             - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比
-            - 发布组，即 Scene or P2P Groups（详见此处），Quality P2P Groups 拥有更好的视频质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
+            - 发布组，即 Scene or P2P Groups（详见此处），Quality P2P Groups 拥有更好的质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
                 - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
                 - 国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐/频繁封装无损音轨，大体上视为与 Scene 同级
         - Trump 达成后，旧版本将被删除，新版本将获得 24 小时“免费”
@@ -101,7 +101,7 @@
     - 某部影片的最优版本在最近三个月没有完成者动向（详见“种子完成详情”页面的“最近动向”一列）、并且没有可靠的续种渠道时，用户可以向管理组申请发布新的版本，并且删除原来断种的版本    
         - 在可以续种（[如何为一个种子做种/续种](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22718)）的情况下，不允许进行同一版本的二次发布
         - 我们正在逐步推行对一些影片的最优版本进行官方保种，避免优质资源断种，同时随时欢迎你帮助我们救活断种（[详见此处](http://www.nexushd.org/forums.php?action=viewtopic&forumid=32&topicid=26423)）
-    - 并非所有用户在转发资源时都会保留初始发布者的发布信息，或是有意愿和能力根据其判断视频质量，因此虽然我们已不再严格遵照[原先的发布组画质分级](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=1520)，依旧有必要通过发布组来初步判断视频质量的优劣，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
+    - 并非所有用户在转发资源时都会保留初始发布者的发布信息，或是有意愿和能力根据其判断质量，因此虽然我们已不再严格遵照[原先的发布组画质分级](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=1520)，依旧有必要通过发布组来初步判断质量的优劣，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
         - Scene Groups（在 [PreDB.me](https://predb.me/)、[pre.corrupt-net](https://pre.corrupt-net.org/) 和 [srrDB](https://www.srrdb.com/) 可以搜索更多 Scene 组）
         - Quality P2P Groups
 
