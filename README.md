@@ -22,7 +22,9 @@
     - DVDRip、CNDVDRip
 
 ## 不允许的资源和文件
-- mUHD（mini UHD）资源
+- 视频码率偏低的资源
+    - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 9000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
+    - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
 - 属于标清级别但质量较差的视频文件，包括 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD 等
 - Pre-Retail 资源，包括但不限于上述 CAM、TC、TS (TELESYNC)、SCR、DVDSCR
@@ -30,9 +32,7 @@
 - 单独的样片（样片请和正片一起上传）
 - RAR 等压缩文件
 - [未经过候选发布的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
-- 视频码率偏低的资源
-    - 通常情况下 720p Rip 和 1080p Rip 至少需要 4000 kb/s 和 9000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
-- 经过二次重编码/压制的资源
+- 经过二次重编码/压制的资源，例如 BRRip
     - 任何重编码资源须使用无损来源
 - 重复（Dupe）的资源（详见此处）
 - 一些特定资源
