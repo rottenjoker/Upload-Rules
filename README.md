@@ -26,17 +26,18 @@
 - 视频码率偏低的资源
     - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 9000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
     - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
+- 来源不明或虚构、篡改标签的资源
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
 - 在影片正式发售或网络放送前出现的偷跑（Pre-Retail）资源，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR 等，以及属于高清或标清级别但质量较差的视频文件，包括 R5、R5.Line、HalfCD、HDRip 等
 - RealVideo 编码的视频（通常封装于 RMVB 或 RM）、flv 文件
 - 单独的样片（样片请和正片一起上传）
 - RAR 等压缩文件
-- [未经过候选发布的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
 - 带有硬字幕的资源
     - 如果影片有较优的质量且没有其他更好的来源时，允许发布此类资源
 - 经过二次重编码/压制的资源，例如 BRRip
     - 任何重编码资源须使用无损来源
 - 重复（Dupe）的资源（详见此处）
+- [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
 - 一些特定资源
     - [NowYS、CMCT 和 CkreleaSe 出的新片“DVDRip”](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p849099#pid849099)
     - [YYeTs 制作的 HR-HDTV 资源](http://www.nexushd.org/forums.php?action=viewtopic&topicid=22696&page=p920615#pid920615)
@@ -85,13 +86,13 @@
     
     - 对于高清重编码（HD）
         - 对于站内尚未发布 BDRip 的影片
-            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差，则来自 WEB Source 的优质重编码将被优先保留）
+            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终的判断依据始终为影片的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差，则来自 WEB Source 的优质重编码将被优先考虑保留）
             - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时“免费”（72 h 置顶？）和[推荐]标签
         - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的质量，否则会被立刻删除，判断依据主要为
             - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等版本的来源通常情况下会有更好的视频质量
             - 是否合理地 Crop & Resize、正确地 IVTC 和对画面进行必要的修复（并且不产生新的因滤镜或重编码导致的显著劣化），例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
             - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比是否存在因重编码导致的显著劣化
-            - 发布组，即 Scene or P2P Groups（详见此处），Quality P2P Groups 拥有更好的质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
+            - 发布组，即 Scene or Quality P2P Groups（详见此处），Quality P2P Groups 拥有更好的质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
                 - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
                 - 大部分国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐/频繁封装无损音轨，大体上视为与 Scene 组同级
         - Trump 达成后，旧版本将被删除，新版本将获得 24 小时“免费”
@@ -124,3 +125,4 @@
 - 一些国产电影/剧集相关规则（猫站：本站禁止发布国家版权局重点作品版权保护预警名单里的影视作品，谢谢！）
 - 电影合集打包，系列电影，榜单、导演、演员等类别是否允许例外
 - 要求制作种子剔除 sample/nfo/txt/screenshots 等文件？
+- “来源于高清媒介的标清重编码（至少为 480p 标准）”感觉可以删了，有高清的话最低留 720p 应该就好了，480p BDRip？
