@@ -23,6 +23,7 @@
     - DVDRip、CNDVDRip
 
 ## 不允许的资源和文件
+> [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963)、[[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
 - 视频码率偏低的资源
     - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 9000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
     - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
@@ -125,4 +126,4 @@
 - 一些国产电影/剧集相关规则（猫站：本站禁止发布国家版权局重点作品版权保护预警名单里的影视作品，谢谢！）
 - 电影合集打包，系列电影，榜单、导演、演员等类别是否允许例外
 - 要求制作种子剔除 sample/nfo/txt/screenshots 等文件？
-- “来源于高清媒介的标清重编码（至少为 480p 标准）”感觉可以删了，有高清的话最低留 720p 应该就好了，480p BDRip？
+- “来源于高清媒介的标清重编码（至少为 480p 标准）”感觉可以删了，有高清的话最低留720p然后SD留个DVD类的应该就好了？
