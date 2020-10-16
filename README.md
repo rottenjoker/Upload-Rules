@@ -25,7 +25,7 @@
 ## 不允许的资源和文件
 > [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963)、[[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
 - 视频码率偏低的资源
-    - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 9000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
+    - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 8000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
     - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
 - 来源不明或虚构、篡改标签的资源
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
@@ -47,8 +47,8 @@
     
 ## HEVC 编码资源的规则增补
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
-- 对于未经重编码资源（即处理为 raw），允许发布使用 HEVC 编码的资源
-- 对于重编码资源（即处理为 encode）
+- 对于未经重编码资源（即处理为 Raw），允许发布使用 HEVC 编码的资源
+- 对于重编码资源（即处理为 Encode）
     - 若重编码来源为 UHD（2160p）HDR 资源，允许使用 x265 或其他可靠的 HEVC 编码器重编码
     - 若重编码来源为 UHD（2160p）SDR 资源，x264 和 x265 编码器均允许使用
     - 对于非动画类资源，重编码来源为 HD SDR 资源时，仅允许使用 x264 编码器重编码
