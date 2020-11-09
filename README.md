@@ -91,7 +91,7 @@
             - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时“免费”（72 h 置顶？）和[推荐]标签
         - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的质量，否则会被立刻删除，判断依据主要为
             - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等版本的来源通常情况下会有更好的视频质量
-            - 是否合理地 Crop & Resize、正确地 IVTC 和对画面进行必要的修复（并且不产生新的因滤镜或重编码导致的显著劣化），例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
+            - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）和对画面进行必要的修复（并且不产生新的因滤镜或重编码导致的显著劣化），例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
             - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比是否存在因重编码导致的显著劣化
             - 发布组，即 Scene or Quality P2P Groups（详见此处），Quality P2P Groups 拥有更好的质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
                 - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
