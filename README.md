@@ -122,5 +122,4 @@
 - HD DVD 重编码部分
 
 ## To discuss
-- 他站禁转资源？
 - 要求制作种子只保留主视频，剔除 sample/nfo/txt/screenshots 等文件？
