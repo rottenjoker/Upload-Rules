@@ -97,14 +97,14 @@
                 - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布
                 - 大部分国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐/频繁封装无损音轨，大体上视为与 Scene 组同级
         - Trump 达成后，旧版本将被删除，新版本将获得 24 小时“免费”
-        - PROPER 版本发布时，原先的版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本一律获得 24 小时“免费”
+        - PROPER 版本发布时，原先的版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本获得 24 小时“免费”
         - 原始宽高比的版本发布后，不符合原始宽高比的版本都会被立刻删除
     - 对于超高清重编码（UHD）
     
 - 附加信息
     - 某部影片的最优版本在最近三个月没有完成者动向（详见“种子完成详情”页面的“最近动向”一列）、并且没有可靠的续种渠道时，用户可以向管理组申请发布新的版本，并且删除原来断种的版本    
         - 在可以续种（[如何为一个种子做种/续种](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22718)）的情况下，不允许进行同一版本的二次发布
-        - 我们正在逐步推行对一些影片的最优版本进行官方保种，避免优质资源断种，同时随时欢迎你帮助我们救活断种（[详见此处](http://www.nexushd.org/forums.php?action=viewtopic&forumid=32&topicid=26423)）
+        - 我们正在逐步推行对一些影片的最优版本进行官方保种，避免优质资源断种，同时非常欢迎你帮助我们救活断种（[详见此处](http://www.nexushd.org/forums.php?action=viewtopic&forumid=32&topicid=26423)）
     - 并非所有用户在转发资源时都会保留初始发布者的发布信息，或是有意愿和能力根据其判断质量，因此虽然我们已不再严格遵照[原先的发布组画质分级](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=1520)，依旧有必要通过发布组来初步判断质量的优劣，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
         - Scene Groups（在 [PreDB.me](https://predb.me/)、[pre.corrupt-net](https://pre.corrupt-net.org/) 和 [srrDB](https://www.srrdb.com/) 可以搜索更多 Scene 组）
         - Quality P2P Groups（任何其他可根据前文判定为质量较优的发布组/个人视为于此同级）
