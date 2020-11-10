@@ -11,7 +11,7 @@
 - 如果你对规则有任何不理解之处和个人建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
 
 ## 允许的资源和文件
-- 高清（HD）视频，包括   **// 增加 WEB-DL/WEBRip**
+- 高清（HD）视频，包括   ***// 增加 WEB-DL/WEBRip***
     - 完整高清媒介，如蓝光（Blu-ray）原盘、HD DVD 原盘等，或 Remux
     - HDTV 流媒体
     - 来源于上述媒介的高清重编码（至少为 720p 标准）
@@ -94,7 +94,7 @@
             - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）和对画面进行必要的修复（并且不产生新的因滤镜或重编码导致的显著劣化），例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
             - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比是否存在因重编码导致的显著劣化
             - 发布组，即 Scene or Quality P2P Groups（详见此处），Quality P2P Groups 拥有更好的质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
-                - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布    **// 区分 16 bit 和 24 bit FLAC**
+                - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布    ***// 区分 16 bit 和 24 bit FLAC***
                 - 大部分国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐/频繁封装无损音轨，大体上视为与 Scene 组同级
         - Trump 达成后，旧版本将被删除，新版本将获得 24 小时“免费”
         - PROPER 版本发布时，原先的版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本获得 24 小时“免费”
