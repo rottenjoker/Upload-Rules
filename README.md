@@ -25,7 +25,7 @@
 ## 不允许的资源和文件
 > [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963) | [[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
 - 视频码率偏低的资源 ***// 新增详细码率约束，整合移动端类视频***
-    - 一般情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 8000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率*明显偏低的资源
+    - 一般情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 8000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
     - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
 - 来源不明或虚构、篡改标签的资源 ***// 新增***
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
