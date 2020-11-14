@@ -3,7 +3,7 @@
 - ...
 
 ## 前言
-- 我们尊重每一份乐于分享的热忱，虽说有“违规的种子将不经提醒而直接删除”一言在先，管理员们在精力允许的情况下还是会尽量耐心地说明和指导，因此希望你仔细阅读并遵守规则，而不必过于担心
+- 我们尊重每一份乐于分享的热忱，虽说有“违规的种子将不经提醒而直接删除”一言在先，管理员们在精力允许的情况下还是会尽量耐心地说明和指导，希望你耐心仔细地阅读并遵守规则
 - 如果你刚开始尝试发布，可以选择继续阅读和理解规则，也可以模仿较新的范例（当然更推荐结合二者），站内一些较久远的资源与现行规则相悖，请遵照现行规则，不要模仿它们
 - 关于规则对于资源较为严格的要求，还望理解，网站建立的目的并非临时交流和传输资源，而是希望每一个合规的资源在发布后能永远存在并可供下载，为将来的用户持续提供价值和方便，而非造成迷惑、混乱和不便
 - 自购、自抓、自压等原创资源可以获得 72 小时“免费 & 2X 上传”，我们非常欢迎用户发布此类资源，前提是符合规则且质量过关
@@ -11,33 +11,35 @@
 - 如果你对规则有任何不理解之处和个人建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
 
 ## 允许的资源和文件
-- 高清（HD）视频，包括   ***// 增加 WEB-DL/WEBRip***
+- 高清（HD）视频，包括
     - 完整高清媒介，如蓝光（Blu-ray）原盘、HD DVD 原盘等，或 Remux
     - HDTV 流媒体
     - 来源于上述媒介的高清重编码（至少为 720p 标准）
     - 其他高清视频，如高清DV
-    - WEB-DL/WEBRip 流媒体
+    - WEB-DL/WEBRip 流媒体 ***// 新增***
 - 标清（SD）视频，只能是
-    - 来源于高清媒介的标清重编码（至少为 480p 标准，且仅限于无法获得 720p 及以上标准的资源时）
+    - 来源于高清媒介的标清重编码（至少为 480p 标准，且仅限于无法获得 720p 及以上标准的资源时） ***// 新增“且仅限……”***
     - DVDR/DVDISO
     - DVDRip、CNDVDRip
 
 ## 不允许的资源和文件
-> [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963)、[[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
-- 视频码率偏低的资源
-    - 通常情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 8000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源
+> [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963) | [[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
+- 视频码率偏低的资源 ***// 新增详细码率约束，整合移动端类视频***
+    - 一般情况下 720p BDRip 和 1080p BDRip 至少需要 4000 kb/s 和 8000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率*明显偏低的资源
     - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源
-- 来源不明或虚构、篡改标签的资源
+- 来源不明或虚构、篡改标签的资源 ***// 新增***
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
-- 在影片正式发售或网络放送前出现的偷跑（Pre-Retail）资源，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR 等，以及属于高清或标清级别但质量较差的视频文件，包括 R5、R5.Line、HalfCD、HDRip 等
+- 通过各种录屏方式获得的偷跑（Pre-Retail）资源，以及属于高清或标清级别但质量较差的视频文件，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD、HDRip 等 ***// 整合***
 - RealVideo 编码的视频（通常封装于 RMVB 或 RM）、flv 文件
 - 单独的样片（样片请和正片一起上传）
 - RAR 等压缩文件
-- 带有硬字幕的资源
-    - 如果影片有较优的质量且没有其他更好的来源时，允许发布此类资源
-- 经过二次重编码/压制的资源，例如 BRRip
-    - 任何重编码资源须使用无损来源
 - 重复（Dupe）的资源（详见此处）
+- 涉及禁忌或敏感内容（如色情、暴力、宗教、敏感政治话题等）的资源（具体尺度由管理组判定） ***// 新增“暴力”、“宗教”，保留部分自由***
+- 损坏的文件，指在读取或回放过程中出现错误的文件
+- 垃圾文件，如病毒、木马、网站链接、广告文档、种子中包含的种子文件等，或无关文件
+- 带有全程硬字幕或无关广告的资源 ***// 新增***
+    - 如果影片没有其他更好的来源，你可以[联系我们申请特例发布](http://www.nexushd.org/contactstaff.php)
+- 经过多次重编码或未使用无损来源的资源，例如 BRRip ***// 新增***
 - [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
 - 一些特定资源
     - [NowYS、CMCT 和 CkreleaSe 出的新片“DVDRip”](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p849099#pid849099)
@@ -55,7 +57,7 @@
     - 对于动画类资源，重编码来源为 HD SDR 资源时，允许使用 x265 进行重编码
 
 ## 种子信息填写
-> [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711)，[NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952)，[发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
+> [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711) | [NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952) | [发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
 - 种子文件
 - 标题
 - 外部链接
@@ -68,7 +70,7 @@
 
 
 ## 共存、重复（Dupe）和淘汰（Trump）判定规则
-> [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971)，[上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
+> [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971) | [上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
 - 共存和重复（Dupe）
     - 对于标清重编码（SD）
         - 原则上只保留一个版本的 DVDRip，影片只有比 DVD 更差的来源时，需向管理组申请特例发布
@@ -80,8 +82,8 @@
     - 对于视频媒介，蓝光原盘、HD DVD 原盘、Remux、DVD 原盘各保留一个版本；影片不发售碟片时，保留一个版本的 HDTV 流媒体或 WEB-DL 流媒体
     - 在没有正常渠道取得电影片源时（正常渠道包括电影碟片发售、网络放送等），只保留一个版本的高清压制作品
     - 视频内容或形式有区别时，视为不同的影片进行保存（比如 Director’s Cut、3D 版本等）
-    - 音轨原则上只允许原音，如果封装了其他的音轨如国配、粤语音轨等，在已经有同分辨率同介质的小组作品发布的情况下，需向管理组申请特例发布
-    - 对于仅存在 iTunes WEB-DL 的电影，只保留一个 720p 或 1080p 版本，如果 1080p 版本质量明显优于 720p 版本，可向管理组申请特例发布
+    - 音轨原则上只允许原音，如果封装了其他的音轨如国配、粤语音轨等，在已经有同分辨率同介质的小组作品发布的情况下，需[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
+    - 对于仅存在 iTunes WEB-DL 的电影，只保留一个 720p 或 1080p 版本，如果 1080p 版本质量明显优于 720p 版本，可[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
 - 淘汰（Trump）
     - 对于标清重编码（SD）
     
