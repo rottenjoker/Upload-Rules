@@ -123,4 +123,5 @@
 - 附上相关帖供参考
 - 格式排版/旧规文字细节的修改更新
 - HD DVD 重编码部分
+- Non-Conform Resolution 部分
 - 建议制作种子只保留主视频，剔除 sample/nfo/txt/screenshots 等文件
