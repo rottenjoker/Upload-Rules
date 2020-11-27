@@ -24,10 +24,9 @@
 
 ## 不允许的资源和文件
 > [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963) | [[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
-- 视频码率偏低的资源
-    - 一般情况下 720p BDRip 和 1080p BDRip 需要 4000 kb/s 和 8000 kb/s 左右的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源 ***// 新增***
-    - MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备缩减体积的资源 ***// 整合***
-- 来源不明或虚构、篡改标签的资源 ***// 新增***
+- 视频码率偏低的资源，例如 MiniSD，MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备降低码率以缩减体积的资源 ***// 整合***
+    - 一般情况下 720p BDRip 和 1080p BDRip 需要 4000 kb/s 和 8000 kb/s 以上的码率来取得较优的观看体验，我们不建议发布码率明显偏低的资源 ***// 新增***
+- 来源不明或虚构、篡改信息的资源 ***// 新增***
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
 - 通过各种录屏方式获得的偷跑（Pre-Retail）资源，以及属于高清或标清级别但质量较差的视频文件，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD、HDRip 等 ***// 整合***
 - RealVideo 编码的视频（通常封装于 RMVB 或 RM）、flv 文件
@@ -38,7 +37,7 @@
 - 损坏的文件，指在读取或回放过程中出现错误的文件
 - 垃圾文件，如病毒、木马、网站链接、广告文档、种子中包含的种子文件等，或无关文件
 - 带有全程硬字幕或无关广告的资源 ***// 新增***
-    - 如果影片没有其他更好的来源，你可以[联系我们申请特例发布](http://www.nexushd.org/contactstaff.php)
+    - 如果影片质量过关且没有其他更好的来源，你可以[联系我们](http://www.nexushd.org/contactstaff.php)申请特例发布
 - 未使用无损来源或经过多次重编码的资源，例如 BRRip ***// 新增***
 - [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
     - 电影资源打包规则
