@@ -28,16 +28,16 @@
     - 一般情况下 720p BDRip 和 1080p BDRip 需要 4000 kb/s 和 8000 kb/s 以上的码率来获得较优的观看体验，我们不建议发布码率明显偏低的资源 ***// 新增***
 - 来源不明或虚构、篡改信息的资源 ***// 新增***
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
-- 通过各种录屏方式获得的偷跑（Pre-Retail）资源，以及属于高清或标清级别但质量较差的视频文件，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD、HDRip 等 ***// 整合***
+- 通过各种录屏方式获得的偷跑（Pre-Retail）资源，以及属于高清或标清级别但质量较差的视频文件，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD、HDRip 等 ***// 整合 HDRip？***
 - RealVideo 编码的视频（通常封装于 RMVB 或 RM）、flv 文件
 - 单独的样片（样片请和正片一起上传）
 - RAR 等压缩文件
 - 重复（Dupe）的资源（详见此处）
-- 涉及禁忌或敏感内容（如色情、暴力、宗教、敏感政治话题等）的资源（管理组保留最终决定权） ***// 新增“暴力”、“宗教”及括号内容***
+- 涉及禁忌或敏感内容（如色情、暴力、宗教、敏感政治话题等）的资源（尺度由管理组决定） ***// 新增“暴力”、“宗教”及（……）***
 - 损坏的文件，指在读取或回放过程中出现错误的文件
 - 垃圾文件，如病毒、木马、网站链接、广告文档、种子中包含的种子文件等，或无关文件
 - 带有全程硬字幕或无关广告的资源 ***// 新增***
-    - 如果影片质量过关且没有其他更好的来源，你可以[联系我们](http://www.nexushd.org/contactstaff.php)申请特例发布
+    - 如果影片没有其他更好的来源且质量过关，你可以[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
 - 未使用无损来源或经过多次重编码的资源，例如 BRRip ***// 新增***
 - [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
     - 电影资源打包规则
@@ -73,7 +73,7 @@
 > [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971) | [上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
 - 共存和重复（Dupe）
     - 对于标清重编码（SD）
-        - 原则上只保留一个版本的 DVDRip，影片只有比 DVD 更差的来源时，需向管理组申请特例发布
+        - 原则上只保留一个版本的 DVDRip，影片只有比 DVD 更差的来源时，需[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
     - 对于高清重编码（HD）
         - 1080p Rip 和 720p Rip 原则上各保留一个版本，最多不超过两个
         - 对于来源为 UHD（2160p）HDR 的资源，原则上只保留一个版本的 1080p Rip
