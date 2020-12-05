@@ -47,7 +47,7 @@
     - [韩国 TC](http://www.nexushd.org/forums.php?action=viewtopic&topicid=22592&page=p918047#pid918047)
     - [劣质 WEB-DL 压制小组（SmY、SeeHD、Mp4Ba、KORSUB）的作品](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24757&page=p965869#pid965869)
     
-## HEVC 编码资源的规则增补 ***// 简化/排版***
+## HEVC 编码资源的规则增补 ***// 简化、排版***
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为 Raw），允许发布使用 HEVC 编码的资源
 - 对于重编码资源（即处理为 Encode）
