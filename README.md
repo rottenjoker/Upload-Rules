@@ -37,15 +37,29 @@
 - 损坏的文件，指在读取或回放过程中出现错误的文件
 - 垃圾文件，如病毒、木马、网站链接、广告文档、种子中包含的种子文件等，或无关文件
 - 带有全程硬字幕或无关广告的资源 ***// 新增***
-    - 如果影片没有其他更好的来源且质量过关，你可以[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
+    - 如果你认为影片没有其他更好的来源且质量过关，你可以[添加候选](http://www.nexushd.org/offers.php)或[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
 - 未使用无损来源或经过多次重编码的资源，例如 BRRip ***// 新增***
-- [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)（电影资源打包规则详见此处）
+- [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)（资源打包规则详见此处）***// 整合***
 - 一些特定资源 ***// 整合***
     - [NowYS、CMCT 和 CkreleaSe 出的新片“DVDRip”](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p849099#pid849099)
     - [YYeTs 制作的 HR-HDTV 资源](http://www.nexushd.org/forums.php?action=viewtopic&topicid=22696&page=p920615#pid920615)
     - [韩国 TC](http://www.nexushd.org/forums.php?action=viewtopic&topicid=22592&page=p918047#pid918047)
     - [劣质 WEB-DL 压制小组（SmY、SeeHD、Mp4Ba、KORSUB）的作品](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24757&page=p965869#pid965869)
     
+## 资源打包规则（试行）
+- 原则上只允许以下资源打包，并且请务必[添加候选](http://www.nexushd.org/offers.php)进行发布
+    - 按套装售卖的高清电影合集，如 The Ultimate Matrix Collection Blu-ray Box
+        - 以发行套装而非发布组自行打包为准
+    - 7 日内的高清预告片
+    - 发布组打包发布的资源
+- 打包发布的视频资源必须满足以下条件
+    - 来源于相同类型的媒介，如蓝光原碟
+    - 有相同的分辨率水平，如 720p
+    - 编码格式一致，如 x264（预告片除外）
+    - 来自相同的发布组
+    - 其中任意一部不重复（Dupe）
+- 打包发布后，将视情况删除相应单独的种子
+
 ## HEVC 编码资源的规则增补 ***// 简化、排版***
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为 Raw），允许发布使用 HEVC 编码的资源
