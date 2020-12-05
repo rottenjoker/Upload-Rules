@@ -66,6 +66,7 @@
 - NFO 文件
 - 简介
     - 请务必在简介中附上影片的 MediaInfo（[获取方法](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=19594)），这能帮助用户非常直观地了解影片的视频、音频、字幕等轨道的信息
+- 类型
 - 质量
 
 
