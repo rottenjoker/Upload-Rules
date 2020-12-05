@@ -47,14 +47,14 @@
     - [韩国 TC](http://www.nexushd.org/forums.php?action=viewtopic&topicid=22592&page=p918047#pid918047)
     - [劣质 WEB-DL 压制小组（SmY、SeeHD、Mp4Ba、KORSUB）的作品](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24757&page=p965869#pid965869)
     
-## HEVC 编码资源的规则增补
+## HEVC 编码资源的规则增补 ***// 简化/排版***
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为 Raw），允许发布使用 HEVC 编码的资源
 - 对于重编码资源（即处理为 Encode）
-    - 若重编码来源为 UHD（2160p）HDR 资源，允许使用 x265 或其他可靠的 HEVC 编码器重编码
-    - 若重编码来源为 UHD（2160p）SDR 资源，x264 和 x265 编码器均允许使用
-    - 对于非动画类资源，重编码来源为 HD SDR 资源时，仅允许使用 x264 编码器重编码
-    - 对于动画类资源，重编码来源为 HD SDR 资源时，允许使用 x265 进行重编码
+    - 若来源为 UHD（2160p）HDR 资源，仅允许使用 x265 或其他可靠的 HEVC 编码器
+    - 若来源为 UHD（2160p）SDR 资源，x264 和 x265 编码器均允许使用
+    - 对于非动画类资源，来源为 HD SDR 资源时，仅允许使用 x264 编码器
+    - 对于动画类资源，来源为 HD SDR 资源时，允许使用 x265 编码器
 
 ## 种子信息填写
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711) | [NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952) | [发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
