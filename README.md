@@ -28,7 +28,7 @@
     - 一般情况下 720p BDRip 和 1080p BDRip 需要 4000 kb/s 和 8000 kb/s 以上的码率来获得较优的观看体验，我们不建议发布码率明显偏低的资源 ***// 新增***
 - 来源不明或虚构、篡改信息的资源 ***// 新增***
 - 标清视频 Upscale 或部分 Upscale 而成的视频文件
-- 通过各种录屏方式获得的偷跑（Pre-Retail）资源，以及属于高清或标清级别但质量较差的视频文件，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD、HDRip 等 ***// 整合 HDRip？***
+- 通过各种录屏方式获得的偷跑（Pre-Retail）资源，以及属于高清或标清级别但质量较差的视频文件，包括但不限于 CAM、TC、TS (TELESYNC)、SCR、DVDSCR、R5、R5.Line、HalfCD、HDRip 等 ***// 整合，HDRip？***
 - RealVideo 编码的视频（通常封装于 RMVB 或 RM）、flv 文件
 - 单独的样片（样片请和正片一起上传）
 - RAR 等压缩文件
