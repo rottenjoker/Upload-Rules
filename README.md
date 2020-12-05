@@ -39,8 +39,7 @@
 - 带有全程硬字幕或无关广告的资源 ***// 新增***
     - 如果影片没有其他更好的来源且质量过关，你可以[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
 - 未使用无损来源或经过多次重编码的资源，例如 BRRip ***// 新增***
-- [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)
-    - 电影资源打包规则
+- [未经过候选发布或其中存在重复（Dupe）资源的电影合集](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p850734#pid850734)（电影资源打包规则详见此处）
 - 一些特定资源 ***// 整合***
     - [NowYS、CMCT 和 CkreleaSe 出的新片“DVDRip”](http://www.nexushd.org/forums.php?action=viewtopic&topicid=20573&page=p849099#pid849099)
     - [YYeTs 制作的 HR-HDTV 资源](http://www.nexushd.org/forums.php?action=viewtopic&topicid=22696&page=p920615#pid920615)
