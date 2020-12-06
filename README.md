@@ -82,8 +82,8 @@
 - 类型
 - 质量
 
-## 共存、重复（Dupe）和淘汰（Trump）判定规则 ***// 细化***
-> [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971) | [上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
+## 共存、重复（Dupe）和淘汰（Trump）判定规则 ***// 整合、细化***
+> [关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0) | [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971) | [上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
 - 共存和重复（Dupe）
     - 对于标清重编码（SD）
         - 原则上只保留一个版本的 DVDRip，影片只有比 DVD 更差的来源时，需[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
@@ -98,20 +98,15 @@
     - 音轨原则上只允许原音，如果封装了其他的音轨如国配、粤语音轨等，在已经有同分辨率同介质的小组作品发布的情况下，需[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
     - 对于仅存在 iTunes WEB-DL 的电影，只保留一个 720p 或 1080p 版本，如果 1080p 版本质量明显优于 720p 版本，可[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
 - 淘汰（Trump）
+    - Trump 达成后，旧版本会被删除，新版本将获得 24 小时“免费”
     - 对于标清重编码（SD）
         - 原则上不进行 Trump，除非原先版本存在明显的问题或显著劣于新发布版本
     - 对于高清重编码（HD）
         - 对于站内尚未发布 BDRip 的影片
-            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终判断依据始终为来源的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差，则来自 WEB Source 的优质重编码将被优先考虑保留）
-            - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时“免费”（和 72 h 置顶？）和[推荐]标签
-        - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的质量，否则会被立刻删除，判断依据主要为
-            - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等版本通常情况下会有更好的视频质量
-            - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）和对画面进行必要的修复（并且不产生新的因滤镜或重编码导致的显著劣化），例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
-            - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比是否存在因重编码导致的显著劣化
-            - 发布组，即 Scene or Quality P2P Groups（详见此处），Quality P2P Groups 通常情况下代表更好的质量且可以淘汰 Scene Groups（[关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0)）
-                - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布    ***// 区分 16 bit 和 24 bit FLAC***
-                - 大部分国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐或频繁封装无损音轨，大体上视为与 Scene 组同级
-        - Trump 达成后，旧版本将被删除，新版本将获得 24 小时“免费”
+            - 在首个 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除（最终判断依据始终为来源的实际质量和观看体验，例如，如果 Blu-ray Source 较 WEB Source 质量更差，则来自 WEB Source 的优质重编码将被优先考虑保留），新版本不会获得随机生成促销
+            - 在这之后的一段时间内允许多个版本 BDRip 共存，管理组会选取一个（或最多不超过两个）相对较优版本并给予 24 小时“免费”~~72 h 置顶和[推荐]标签？~~
+        - 对于站内已发布 BDRip 的影片，新版本必须比已发布的版本拥有更好的质量，否则会被立刻删除
+
         - 原始宽高比的版本发布后，不符合原始宽高比的版本都会被立刻删除
     - 对于超高清重编码（UHD）
         - 原则上不进行 Trump，除非原先版本存在明显的问题或显著劣于新发布版本
@@ -120,13 +115,17 @@
     - 在可以续种（[如何为一个种子做种/续种](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22718)）的情况下，不允许进行同一版本的二次发布
     - 若在续种时出现缺少小文件如 nfo、sample 的情况，请先检查字幕区或 nfo 附件区有没有相应的文件，若仍没有可[联系管理组](http://www.nexushd.org/contactstaff.php)或管理组成员 [carpediem](http://www.nexushd.org/sendmessage.php?receiver=85229) 请求帮助。请在短讯内容中提供尽可能详细的信息，描述清楚你所需要的帮助
     - 我们正在逐步推行对一些影片的最优版本进行官方保种，避免优质资源断种，同时非常欢迎你帮助我们救活断种（[详见此处](http://www.nexushd.org/forums.php?action=viewtopic&forumid=32&topicid=26423)）
-- 附加信息
-        
-        
-        
+- 附加信息        
     - PROPER 版本发布时，原先的版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本获得 24 小时“免费”
+    - 质量判断依据
+        - 来源（Source）质量优劣，例如 Remaster、Restoration 和 Hybrid 等版本通常情况下会有更好的视频质量
+        - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）和对画面进行必要的修复（并且不产生新的因滤镜或重编码导致的显著劣化），例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
+        - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比是否存在因重编码导致的显著劣化
+        - 发布组，即 Scene or Quality P2P Groups（详见下文），Quality P2P Groups 通常情况下代表更好的质量且可以淘汰 Scene Groups
+            - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布    ***// 区分 16 bit 和 24 bit FLAC***
+            - 大部分国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐或频繁封装无损音轨，大体上视为与 Scene 组同级
     - 并非所有用户在转发资源时都会保留最初的发布信息，或是有意愿和能力根据其判断质量，因此虽然我们已不再严格遵照[原先的发布组画质分级](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=1520)，依旧有必要通过发布组来初步判断质量的优劣，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
-        - Scene Groups（在 [PreDB.me](https://predb.me/)、[pre.corrupt-net](https://pre.corrupt-net.org/) 和 [srrDB](https://www.srrdb.com/) 可以搜索更多 Scene 组）
+        - Scene Groups
             - `...`
         - Quality P2P Groups（任何其他可根据前文判定为质量较优的发布组/个人视为于此同级）
             - `...`
