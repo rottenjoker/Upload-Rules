@@ -56,10 +56,6 @@
     - 其中任意一部不重复（Dupe）
 - 打包发布后，将视情况删除相应单独的种子
 
-## WEB-DL/WEBRip 规则增补 ***// 新增***
-> [剧集版本的选择以及资源来源介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=36&topicid=25829)
-- 
-
 ## HEVC 编码资源的规则增补 ***// 文字简化、排版***
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为 Raw），允许发布使用 HEVC 编码的资源
@@ -68,6 +64,10 @@
     - 若来源为 UHD（2160p）SDR 资源，x264 和 x265 编码器均允许使用
     - 对于非动画类资源，来源为 HD SDR 资源时，仅允许使用 x264 编码器
     - 对于动画类资源，来源为 HD SDR 资源时，允许使用 x265 编码器
+
+## WEB-DL/WEBRip 资源的规则增补 ***// 新增***
+> [剧集版本的选择以及资源来源介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=36&topicid=25829)
+- 
 
 ## 种子信息填写
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711) | [NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952) | [发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
