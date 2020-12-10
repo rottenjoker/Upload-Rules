@@ -56,6 +56,10 @@
     - 其中任意一部不重复（Dupe）
 - 打包发布后，将视情况删除相应单独的种子
 
+## WEB-DL/WEBRip 规则增补 ***// 新增***
+> [剧集版本的选择以及资源来源介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=36&topicid=25829)
+- 
+
 ## HEVC 编码资源的规则增补 ***// 文字简化、排版***
 > [[公告]关于HEVC编码资源的规则增补](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25557)
 - 对于未经重编码资源（即处理为 Raw），允许发布使用 HEVC 编码的资源
@@ -69,9 +73,9 @@
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711) | [NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952) | [发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
 - 种子文件
 - 标题
-- 外部链接
-    - 请务必填上正确的 IMDb 链接（如果有的话）
-    - 请务必填上正确的豆瓣链接（如果有的话）
+- 外部链接（如果有的话）
+    - 请务必填上正确的 IMDb 链接
+    - 请务必填上正确的豆瓣链接，部分条目可能需要登录豆瓣账号以查看
 - NFO 文件
 - 简介
     - 请务必在简介中附上影片的 MediaInfo（[获取方法](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=19594)）
@@ -98,24 +102,26 @@
         - 在 BDRip 发布后，所有在来源质量上不如 BDRip 的版本（HDTV、WEB-DL 等）都会被立刻删除，新版本不会获得 Trump 给予的促销 ***// 无trump促销***
         - 相同分辨率下，新发布的 BDRip 必须拥有和已发布版本相近的，或更好的视频质量，否则会被立刻删除 ***// 调整***
             - Trump 达成后，旧版本将被删除，新版本获得 24 小时“免费” ***// 主要针对常规洗版***
-            - 允许一段时间内多个质量相近的版本共存，管理组会选取一个相对最优的版本并给予 72 小时“置顶”和“免费”，以及“[推荐]”标签 ***// 主要针对新出BD的片，多个p2p组内筛选***
+            - 允许一段时间内多个质量相近的版本共存，管理组会选取一个相对最优的版本并给予 72 小时“置顶”和“免费”，以及“[推荐]”标签 ***// 主要针对新出BD的片/热门片，多个p2p组内筛选***
             - 管理组选取之后，如果有更好的版本发布，那么会重新进行选取的工作
         - 原始宽高比的版本发布后，不符合原始宽高比的版本都会被立刻删除，新版本获得 24 小时“免费”
-    - 对于其他
+    - 对于标清、超高清重编码（SD & UHD）、Remux 和蓝光原盘 ***// 新增***
         - 原则上不进行 Trump，除非原先版本存在明显的问题或显著劣于新发布版本
+    - 其他情况
+        - PROPER 版本发布时，原先版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本获得 24 小时“免费” ***// 细化***
+        - 对于 HD DVD 或 WEB-DL（例如 Amazon/Netflix 4k WEB-DL）优于 Blu-ray 的情况，来源最优的重编码会被优先保留 ***// 新增***
 - 对于断种
     - 某部影片的最优版本在最近三个月没有完成者动向（详见“种子完成详情”页面的“最近动向”一列）并且没有可靠的续种渠道时，用户可以向管理组申请发布新的版本，并且删除原来断种的版本
     - 在可以续种（[如何为一个种子做种/续种](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22718)）的情况下，不允许进行同一版本的二次发布
         - 若在续种时出现缺少小文件如 nfo、sample 的情况，请先检查字幕区或 nfo 附件区有没有相应的文件，若仍没有可[联系管理组](http://www.nexushd.org/contactstaff.php)或管理组成员 [carpediem](http://www.nexushd.org/sendmessage.php?receiver=85229) 请求帮助
-- 附加信息        
-    - PROPER 版本发布时，原先版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本获得 24 小时“免费” ***// 细化***
-    - 
-    - 质量判断依据主要包括 ***// 新增***
+- 附加信息 ***// 整合、新增***
+    - 视频质量，即正确回放过程中的观看体验，是本规则的首要考虑因素，基于片源和无损截图等方面进行对比始终是判断优劣的最高原则
+    - 质量判断依据主要参考
         - 来源（Source）质量优劣，例如 Remaster 和 Restoration 等版本通常情况下会有更好的视频质量
         - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）
         - 是否对画面进行了必要的修复，并且不产生新的因滤镜或重编码导致的显著劣化，例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
         - 同一场景/帧（P/B frames from Source to B frames from Encode）的无损截图（PNG）对比是否存在因重编码导致的显著劣化
-        - 发布组，即 Scene or Quality P2P Groups（详见下文），Quality P2P Groups 通常情况下代表更好的质量，并且可以淘汰 Scene Groups
+        - 发布组，即 Scene or Quality P2P Groups（详见下文），Quality P2P Groups 通常情况下代表更好的质量，且可以淘汰 Scene Groups
             - 任何封装无损音轨（不包括 16 bits FLAC）的影片视为 Scene 组的发布    ***// 仅限 24 bit***
             - 大部分国内的发布组（CHD、HDChina、MySiLU、beAst、HDS、WiKi 等）因重编码质量参差不齐或频繁封装无损音轨，大体上视为与 Scene 组同级
     - Scene & Quality P2P Groups，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
