@@ -3,7 +3,6 @@
 - ...
 
 ## 前言
-- 如果你刚开始尝试发布，可以选择继续阅读和理解规则，也可以模仿较新的范例（当然更推荐结合二者），站内一些较久远的资源与现行规则相悖，请遵照现行规则，不要模仿它们
 - 受限于日益变化的标准和管理组的能力，对于规则在将来可能出现的疏漏和描述模糊的部分，管理组保留最终决定权，同时也会不断更新现行规则
 - 我们非常欢迎自购、自抓、自压等原创资源，符合规则且质量过关的此类资源可以获得 72 小时“免费 & 2X 上传”，你可以在副标题中标注，或直接使用“举报”功能来告知管理组以获得促销
 - 如果你对规则有任何不理解之处和个人建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
@@ -53,7 +52,7 @@
     - 有相同的分辨率水平，如 720p
     - 编码格式一致（预告片除外），如 x264
     - 来自相同的发布组
-    - 其中任意一部不重复（Dupe）
+    - 其中任意一部不[重复（Dupe）]()
 - 打包发布后，将视情况删除相应单独的种子
 
 ## HEVC 编码资源的规则增补 ***// 文字简化、排版***
@@ -67,7 +66,15 @@
 
 ## WEB-DL/WEBRip 资源的规则增补 ***// 新增***
 > [剧集版本的选择以及资源来源介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=36&topicid=25829)
-- 
+- 允许的流媒体源
+    - 对于 WEB-DL
+    
+    - 对于 WEBRip
+    
+- 不允许的流媒体源
+    - 对于 WEB-DL
+    
+    - 对于 WEBRip
 
 ## 种子信息填写
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711) | [NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952) | [发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
@@ -109,7 +116,7 @@
         - 原则上不进行 Trump，除非原先版本存在明显的问题或显著劣于新发布版本
     - 其他情况
         - PROPER 版本发布时，原先版本视为 Nuked（劣质），REPACK/RERIP 版本发布时，同一发布组或个人发布的原先版本视为 Nuked（劣质），新版本获得 24 小时“免费” ***// 细化***
-        - 对于 WEB-DL（例如 Amazon/Netflix 4k WEB-DL）或 HD DVD 优于 Blu-ray 的情况，相同分辨率下，原则上只保留来源质量最优的重编码 ***// 新增***
+        - 对于 WEB-DL（例如 Amazon/Netflix 4k SDR WEB-DL）或 HD DVD 优于 Blu-ray 的情况，相同分辨率下，原则上只保留来源质量最优的重编码 ***// 新增***
 - 对于断种
     - 某部影片的最优版本在最近三个月没有完成者动向（详见“种子完成详情”页面的“最近动向”一列）并且没有可靠的续种渠道时，用户可以向管理组申请发布新的版本，并且删除原来断种的版本
     - 在可以续种（[如何为一个种子做种/续种](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22718)）的情况下，不允许进行同一版本的二次发布
