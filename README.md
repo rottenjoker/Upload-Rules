@@ -5,7 +5,7 @@
 ## 前言
 - 受限于日益变化的标准和管理组的能力，对于规则在将来可能出现的疏漏和描述模糊的部分，管理组保留最终决定权，同时也会不断更新现行规则
 - 我们非常欢迎自购、自抓、自压等原创资源，符合规则且质量过关的此类资源可以获得 72 小时“免费 & 2X 上传”，你可以在副标题中标注，或直接使用“举报”功能来告知管理组以获得促销
-- 如果你对规则有任何不理解之处和个人建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
+- 如果你对规则有任何疑问或建议，或是不确定某个资源是否可以发布，随时欢迎你[联系我们](http://www.nexushd.org/contactstaff.php)
 
 ## 允许的资源和文件
 - 高清（HD）视频，包括
@@ -20,7 +20,6 @@
     - DVDRip、CNDVDRip
 
 ## 不允许的资源和文件
-> [电影片源的介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=18&topicid=25963) | [[转]你还在盲目的下电影吗？（30条实用信息）](http://www.nexushd.org/forums.php?action=viewtopic&topicid=24332&highlight=%E6%9E%AA%E7%89%88&page=p957158#pid957158)
 - 视频码率偏低的资源，例如 MiniSD、MiniHD、mUHD（mini UHD）、PAD 等专门针对移动设备降低码率以缩减体积的资源 ***// 整合***
     - 对于 720p BDRip 和 1080p BDRip，不建议发布码率显著低于 4000 kb/s 和 8000 kb/s 的资源 ***// 新增***
 - 来源不明或虚构、篡改信息的资源 ***// 新增***
@@ -64,18 +63,6 @@
     - 对于非动画类资源，来源为 HD SDR 资源时，仅允许使用 x264 编码器
     - 对于动画类资源，来源为 HD SDR 资源时，允许使用 x265 编码器
 
-## WEB-DL/WEBRip 资源的规则增补 ***// 新增***
-> [剧集版本的选择以及资源来源介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=36&topicid=25829)
-- 允许的流媒体源
-    - 对于 WEB-DL
-    
-    - 对于 WEBRip
-    
-- 不允许的流媒体源
-    - 对于 WEB-DL
-    
-    - 对于 WEBRip
-
 ## 种子信息填写
 > [种子信息填写规范与指导](http://www.nexushd.org/forums.php?action=viewtopic&topicid=3438&page=p56711#pid56711) | [NexusHD发种教程](http://www.nexushd.org/forums.php?action=viewtopic&forumid=44&topicid=25952) | [发布页面详解](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22529)
 - 种子文件
@@ -90,7 +77,7 @@
 - 质量
 
 ## 重复（Dupe）判定规则
-> [关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0) | [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971) | [上传规则修改征集意见](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25446&page=0)
+> [关于资源版本选择和保种问题](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25942&page=0) | [新dupe（重复）判定规则试行](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=25971) | [剧集版本的选择以及资源来源介绍](http://www.nexushd.org/forums.php?action=viewtopic&forumid=36&topicid=25829)
 - 共存
     - 对于标清重编码（SD）
         - 原则上只保留一个版本的 DVDRip，影片只有比 DVD 更差的来源时，需[向管理组申请特例发布](http://www.nexushd.org/contactstaff.php)
@@ -122,7 +109,7 @@
     - 在可以续种（[如何为一个种子做种/续种](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=22718)）的情况下，不允许进行同一版本的二次发布
         - 若在续种时出现缺少小文件如 nfo、sample 的情况，请先检查字幕区或 nfo 附件区有没有相应的文件，若仍没有可[联系管理组](http://www.nexushd.org/contactstaff.php)或管理组成员 [carpediem](http://www.nexushd.org/sendmessage.php?receiver=85229) 请求帮助
 - 附加信息 ***// 整合、新增***
-    - 视频质量，即正确回放过程中的观看体验，是本规则的首要考虑因素，基于片源和无损截图等方面进行对比始终是判断优劣的最高原则
+    - 视频质量，即正确回放过程中的观看体验，是本规则的首要考虑因素，基于片源和无损截图等方面进行对比始终是判断质量优劣的最高原则
     - 质量判断依据主要参考
         - 来源（Source）质量优劣，例如 Remaster 和 Restoration 等版本通常情况下会有更好的视频质量
         - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）
@@ -145,7 +132,6 @@
 - 索引链接
 - 附上相关帖
 - 格式排版/旧规文字细节的修改更新
-- HD DVD Encode
-- DoVi
-- Non-Conform Resolution?
+- WEB-DL/WEBRip 规则增补？
+- DoVi？
 - 种子信息填写部分优化
