@@ -110,7 +110,7 @@
         - 若在续种时出现缺少小文件如 nfo、sample 的情况，请先检查字幕区或 nfo 附件区有没有相应的文件，若仍没有可[联系管理组](http://www.nexushd.org/contactstaff.php)或管理组成员 [carpediem](http://www.nexushd.org/sendmessage.php?receiver=85229) 请求帮助
 - 附加信息 ***// 整合、新增***
     - 视频质量，即正确回放过程中的观看体验，是本规则的首要考虑因素，基于片源和无损截图等方面进行对比始终是判断质量优劣的最高原则
-    - 质量判断依据主要参考
+    - 质量判断的参考依据
         - 来源（Source）质量优劣，例如 Remaster 和 Restoration 等版本通常情况下会有更好的视频质量
         - 是否合理地裁切黑边及调整分辨率（Crop & Resize）、正确地反交错（IVTC）
         - 是否对画面进行了必要的修复，并且不产生新的因滤镜或重编码导致的显著劣化，例如修复脏线（Dirty Lines）、消除色带/色块（Deband/Deblock）等
