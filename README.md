@@ -92,7 +92,9 @@
 - NFO 文件
     - 如果有的话建议上传至 NFO 附件区
 - 简介
+    - 推荐使用[电影信息生成脚本](http://www.nexushd.org/forums.php?action=viewtopic&topicid=25833&page=p1409419#pid1409419)
     - 请务必在简介中附上影片的 MediaInfo（[获取方法](http://www.nexushd.org/forums.php?action=viewtopic&forumid=51&topicid=19594)）
+    - 建议参考较新的范例
 - 类型
     - Movies
 - 质量
