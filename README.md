@@ -152,7 +152,7 @@
     - Scene & Quality P2P Groups，你可以使用 `Ctrl`+`F` (Mac: `Cmd`+`F`) 进行搜索，列表会不定期更新
         - Scene Groups
             - `...`
-        - Quality P2P Groups（任何其他可根据前文判定为质量较优的发布组/个人视为于此同级）
+        - Quality P2P Groups（任何其他可根据前文判定为质量较优的发布组/个人视为与此同级）
             - `...`
 
 ---
@@ -167,3 +167,8 @@
 - DoVi？
 - 种子信息填写部分优化
 - web x265 等部分更新？
+- 新旧Source之间trump顺序
+- 色调共存
+- 共存source之间trump
+- WEB-DL同分辨率trump
+- bd trump web同分辨率
